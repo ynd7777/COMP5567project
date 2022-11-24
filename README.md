@@ -2,5 +2,5 @@
 ## Group members: Niandi Yang, Kexin Jie, Lingjun lu, Fangzhou Cao
 ### Model: Random forest, Gradient boosting, Voting regressor combine random forest and gradient boosting
 ### Sliding window: window length = 5
-![1ee31e6fa4e5c85a98d6bcd3ef857e8](https://user-images.githubusercontent.com/118951352/203705737-15e8e48f-c473-4b22-bc77-348e9f8b0288.jpg)
+![image](https://user-images.githubusercontent.com/118951352/203705882-162c74ae-7146-4269-99b1-807ca4eb97d1.png)
 
